@@ -18,3 +18,11 @@ h2 {
   justify-content: space-around;
   height:70vh;
 }
+.left, .right{
+  width: 46vw;
+}
+img{
+  height: 40vh;
+  width: auto;
+  margin: 3vh 0;
+}
