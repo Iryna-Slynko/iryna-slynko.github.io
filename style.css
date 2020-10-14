@@ -9,3 +9,12 @@ h1 {
 h2 {
   color: DimGray;
 }
+.logo{
+  text-align:left;
+  width: 48vw;
+}
+.main{
+  display: flex;
+  justify-content: space-around;
+  height:70vh;
+}
